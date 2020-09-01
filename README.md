@@ -11,3 +11,6 @@ Connect three to win
 Otherwise Draw
 
 ENJOY!
+
+
+![](xoxo.gif)
